@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oophezaph.killtheliterate.com/sitemap.xml
